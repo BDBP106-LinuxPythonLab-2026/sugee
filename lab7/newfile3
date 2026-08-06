@@ -1,0 +1,4 @@
+user= read and write only, group=read and write only, everyone else= read only 
+umask=0002 permissions creaated by default for files= 664 and for directories=775
+for user and group all the 3 permissions are there but for everyone else only read permission is there
+
