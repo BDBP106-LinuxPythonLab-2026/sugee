@@ -1,0 +1,13 @@
+#!/bin/bash
+
+function maximum {
+	a=$1
+	b=$2
+	if [ $a -gt $b ];then
+		echo "$a is greater than $b"
+	else
+		echo "$b is greater"
+	fi
+}
+maximum 10 15
+
