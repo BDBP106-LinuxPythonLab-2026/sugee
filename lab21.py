@@ -4,7 +4,7 @@
 # temp = [120,30,45,90]
 # result=list(map(celsius_fahrenheit,temp))
 # print(result)
-from uaclient.status import get_section_column_content
+
 
 
 #Q2
